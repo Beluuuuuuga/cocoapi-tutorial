@@ -8,7 +8,7 @@ $ pip install -r requirements.txt
 ```
 
 ## Tutorial
-- [Annotation Processing](https://github.com/Beluuuuuuga/cocoapi-tutorial/blob/main/AnnotationProcessingDemo.ipynb)
+- [Annotation Processing](https://github.com/Beluuuuuuga/cocoapi-tutorial/blob/main/AnnotationProcessingTutorial.ipynb)
 
 ## Reference
 COCO Webpage

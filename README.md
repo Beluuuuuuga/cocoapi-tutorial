@@ -1,5 +1,11 @@
 ## Overview
-This repository is [cocoapi](https://github.com/cocodataset/cocoapi) tutorial focused on python.
+This repository is [cocoapi](https://github.com/cocodataset/cocoapi) tutorial focused on python
+
+Install COCO api
+
+```
+$ pip install -r requirements.txt
+```
 
 ## Reference
 COCO Webpage
